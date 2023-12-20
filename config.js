@@ -9,11 +9,11 @@ global.port= process.env.PORT || 5000
 global.email = 'Sithumkalhara271@gmail.com'
 global.github = 'https://github.com/Sithuwa/SITHUWA-MD'
 global.location = 'Sri Lanka'
-global.gurl = 'https://instagram.com' // add your username
+global.gurl = 'https://instagram.com/nab.gains' // add your username
 global.sudo = process.env.SUDO || "27799191911"
 global.devs = '27799191911';
-global.website = 'https://github.com/Sithuwa/SITHUWA-MD' //wa.me/+94000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/15b1dd8aeaa47888d75d7.jpg'
+global.website = 'https://youtube.com/@nabgains' //wa.me/+94000000000000
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://yt3.ggpht.com/yfM790w8K-_P5CoE4eoDOREAOGKcqRI77B_osD4G3KBDqCfGNbCOkSoEBB2qnpORkUSa9Uif20M=s48-c-k-c0x00ffffff-no-rj'
 module.exports = {
   sessionName: process.env.SESSION_ID || "",      //Put Your Session Id Here
   author:  process.env.PACK_AUTHER ||  '🐦 ℕ𝔸𝔹-𝔹𝕠𝕥 🐦',
