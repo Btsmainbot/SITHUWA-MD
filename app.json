@@ -1,5 +1,5 @@
 {
-  "name": "SITHUWA-MD",
+  "name": "ℕ𝔸𝔹-𝔹𝕠𝕥",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/90ecbecc7dcfb93ede0fa.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Sithuwa Bot", "sithuwa","SITHUWA-MD","theme bot","multi device","baileys","Sithum Kalhara"],
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME", 
-      "value": "Sithum Kalhara"
+      "value": ""𝑵𝑨𝑩𝒘𝒐𝒓𝒌𝒔"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -21,7 +21,7 @@
   "AUTO_READ_STATUS": {
     "description": "Fill the value true if you want bot view your Statuses.",
     "required" :false,
-    "value": "false"
+    "value": "true"
       },
     "HEROKU_API_KEY": {
     "description": "Put HEROKU API KEY",
@@ -66,11 +66,11 @@
     },
       "PREFIX": {
   "description": "Enter your desired prefix for bot.",
-      "value": "."
+      "value": ">"
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94761516805"
+       "value": "27799191911"
   },
    "SESSION_ID": {
     "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to SITHUWA-MD Github Repo U can find the Scanner Option"
@@ -94,16 +94,16 @@
   },
       "AUTO_REACTION": {
     "description": "Reacts emoji to all commands.",
-     "value": "false",
+     "value": "true",
      "required": false 
   },
   "PACK_AUTHOR": {
     "description": "PUT STICKER AUTHER NAME",
-    "value": "SITHUWA:"
+    "value": "ℕ𝔸𝔹-𝔹𝕠𝕥:"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "SITHUWA-MD"
+    "value": "𝑵𝑨𝑩𝒘𝒐𝒓𝒌𝒔"
   },
   "heroku": {
     "description": "Weather it is on heroku or not", 
