@@ -23,7 +23,7 @@
 
 ## Click the button below to get the QR code. | QR කේතය ලබාගැනීමට පහත බටන් එක ක්ලික් කරන්න.
 
-<div align="left"><a href="https://replit.com/@SithumKalhara/SITHUWA-MD"><img src="https://repl.it/badge/github/quiec/whatsasena" width="150" ></a></div>
+<div align="left"><a href="https://replit.com/@SithumKalhara/SITHUWA-MD#Console"><img src="https://repl.it/badge/github/quiec/whatsasena" width="150" ></a></div>
 
 ```bash
 ⚠️ if there any error please infrom it support group. | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
@@ -53,25 +53,6 @@
 
 <p align="center" >
     <br>
-__________________________
-    <br>
-</p>
-
-<br>
-      
-<h4 align="center"> Deploy on Koyeb
-</h4>
-      
-<p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Sithuwa/SITHUWA-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94759333625&env[MONGODB_URI]&&env[OWNER_NAME]=SITHUM&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/f9e51e5d61e439020720a.jpg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=sithuwa-md&env[PACK_INFO]=SITHUWA-MD;BY-SITHUM-KALHARA&name=SITHUWA-MD&env[KOYEB_NAME]=SITHUWA-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)">
-    <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
-    </a>
-   
-</p>
-
-
-<p align="center" >
-    <br>
     __________________________
     <br>
 </p>
@@ -90,6 +71,31 @@ __________________________
     </a>
 
 </p>
+
+<p align="center" >
+<a href="https://youtu.be/HumCsC4MjzI?si=w1U1C5wLSkZ7u7o7">
+    <img src="https://telegra.ph/file/ae251b53658a5505965ad.png" width="170px" alt="Deploy on Repl.it" >
+    </a>
+</p>
+
+<p align="center" >
+    <br>
+  __________________________
+    <br>
+</p>
+
+<br>
+      
+<h4 align="center"> Deploy on Koyeb
+</h4>
+      
+<p align="center">
+    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Sithuwa/SITHUWA-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94759333625&env[MONGODB_URI]&&env[OWNER_NAME]=SITHUM&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/f9e51e5d61e439020720a.jpg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=sithuwa-md&env[PACK_INFO]=SITHUWA-MD;BY-SITHUM-KALHARA&name=SITHUWA-MD&env[KOYEB_NAME]=SITHUWA-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)">
+    <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
+    </a>
+   
+</p>
+
 
 <p align="center" >
     <br>

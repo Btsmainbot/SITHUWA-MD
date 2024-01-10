@@ -1,12 +1,12 @@
 /**
- Copyright (C) 2022.
+ Copyright (C) 2023.
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : XLICON-MD
- * @author : SalmanYtOfficial <https://github.com/salmanytofficial>
- * @description : XLICON ,A Multi-functional whatsapp bot.
- * @version 0.0.6
+ * @project_name : SITHUWA-MD
+ * @author : SITHUWA <https://github.com/Sithuwa>
+ * @description : SITHUWA-MD,A Multi-Device whatsapp bot.
+ * @version 1.0.0
  **/
 
 const moment = require('moment-timezone')
@@ -57,6 +57,7 @@ cmd({
 
         }
     )
+
     //---------------------------------------------------------------------------
 cmd({
             pattern: "weather",
@@ -167,7 +168,7 @@ cmd({
 
                 let n = await gis(name1)
                     images = n[Math.floor(Math.random() * n.length)].url;
-                    await Void.sendMessage(citel.chat, {image: {  url: images,}, caption: `_Xlicon Image Search_\n*${name1}*`,}, { quoted: citel, });
+                    await Void.sendMessage(citel.chat, {image: {  url: images,}, caption: `_SITHUWA-MD Image Search_\n*${name1}*`,}, { quoted: citel, });
             }
         }
     )

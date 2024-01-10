@@ -4,9 +4,9 @@
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
  * @project_name : SITHUWA-MD
- * @author : @sithumkalhara <https://github.com/sithuwa>
- * @description : SITHUWA ,A Multi-functional whatsapp bot.
- * @version 0.0.6
+ * @author : SITHUWA <https://github.com/Sithuwa>
+ * @description : SITHUWA-MD,A Multi-Device whatsapp bot.
+ * @version 1.0.0
  **/
 const axios = require('axios');
 const { tlang,cmd } = require('../lib')
@@ -94,6 +94,7 @@ cmd(
        let data = await getvar(text);
        return citel.reply(data)
   })
+  
 //----------------------------------------------------------------------------------------------------------------------------------------------------
 cmd(
   {
@@ -130,7 +131,7 @@ cmd(
   },
   async (Void,citel,text,{isCreator}) => {
        if(!isCreator) return citel.reply(tlang().owner);
-       if(!text.split(':')[1]) return citel.reply('*Wrong Format.*\nPlease provide key and value.\n_Eg: .setvar THEME:SECKTOR_')
+       if(!text.split(':')[1]) return citel.reply('*Wrong Format.*\nPlease provide key and value.\n_Eg: .setvar THEME:GOJO_')
        if (Config.heroku=true){
         const Heroku = require("heroku-client");
         const heroku = new Heroku({
@@ -138,7 +139,7 @@ cmd(
         });
         let baseURI = "/apps/" + Config.HEROKU.APP_NAME;
         await heroku.patch(baseURI + "/config-vars", {  body: { [text.split(':')[0]]: text.split(':')[1],  }, });
-        await citel.reply(`🔮var ${text.split(':')[0]} : ${text.split(':')[1]} has been set Successfuly.`);
+        await citel.reply(`🟩var ${text.split(':')[0]} : ${text.split(':')[1]} has been set Successfuly.`);
        }
        let check = await get_deployments()
        if(check==='true') return citel.reply('_Please wait..._\n_Currently 2 instances are running in Koyeb,wait to stop one of them._')
